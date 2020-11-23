@@ -1,2 +1,0 @@
-# dimsx
-test
